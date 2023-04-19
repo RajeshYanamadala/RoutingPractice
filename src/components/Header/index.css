@@ -1,0 +1,37 @@
+/* Write your CSS code here */
+.app-container {
+  border-radius: 5px;
+  border-color: #6d396b;
+  border-style: solid;
+  border-bottom: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-width: 3px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.header-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.wave-title {
+  display: flex;
+}
+.nav-bar-titles {
+  display: flex;
+  list-style: none;
+}
+.heading {
+  font-size: 20px;
+  font-family: 'roboto';
+  margin-left: 15px;
+  color: #551e53;
+  font-weight: 600;
+}
+.wave-img {
+  height: 50px;
+  width: 50px;
+  margin-left: 20px;
+}

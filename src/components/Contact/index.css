@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #6d396b;
+  border-top-style: none;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+.contact-img {
+  height: 200px;
+  width: 200px;
+  margin-top: 10%;
+}
+.heading-contact {
+  font-size: 24px;
+  color: #551e53;
+  font-family: 'roboto';
+}
